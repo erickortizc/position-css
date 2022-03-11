@@ -13,6 +13,21 @@ body
    position: fixed;
    width: 100%;
 }
+.menuimg
+{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px 0 10px ;
+    z-index: 1;
+}
+.menu img
+{
+    margin: 5px 5px 5px 5px ;
+ width: 30px;
+ height: 40px;
+}
 .content
 {
     position: relative;
